@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 .newDiv{
     margin: 5px;
     height: 200px;
